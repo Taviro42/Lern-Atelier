@@ -5,4 +5,4 @@
 
 1. Alle Dateien und die darin enthaltenen Aufgaben im Abschnitt "*Erster ILA-Tag*" durchgehen und erfüllen.
 2. Beginnen nach einem eventuellen Projekt zu suchen. Ideen aufschreiben.
-3. Planung für den nächsten Tag
+3. Planung für den nächsten Tag.
