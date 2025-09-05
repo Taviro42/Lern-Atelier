@@ -27,11 +27,21 @@ Ich habe sehr viel gelernt über Docker und mein schon lange nicht mehr benutzte
 ## Planung 05.09.25
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Den Minecraft server im Dockerfile wieder Starten
-- [ ] Mein erstes simples Dockerfile schreiben
-- [ ] Ein dockerfile schreiben das einen Minecraft server erstellt den ich über localhost betreten kann 
-- [ ] Suchen nach einer Ressource um Webscraping zu lernen/ damit zu beginnen
+- [X] Den Minecraft server im Dockerfile wieder Starten
+- [X] Mein erstes simples Dockerfile schreiben
+- [-] Ein dockerfile schreiben das einen Minecraft server erstellt den ich über localhost betreten kann 
+- [-] Suchen nach einer Ressource um Webscraping zu lernen/ damit zu beginnen
+
+## 05.09.2025
+
+Ich konnte den server erneut starten und habe anschliessend begonnen mich mit dockerfile-syntax auseinanderzusetzen. Mein Projekt mit dem Minecraft server hat zu fehlern geführt und ich habe herrausgefunden das docker für sowas garnicht gedacht ist. Da ich momentan keinen bestimmten nutzen für docker habe werde ich es auf unbestimmte Zeit pausieren und mich anderen Projekten zuwenden. 
+
+## Planung 12.09.2025
+
+- [ ] Wenn ich debian mit RemoteDesktop noch nicht aufgesezt habe ist mein Ziel mich mit Webscraping auseinanderzusetzen was momentan sehr schwierig zu planen ist. 
+Sonst:
+- [ ] Schauen das die Dotfiles so funktionieren wie sie sollen und Dinge so einrichten das ich Produktiv arbeiten kann. 
+- [ ] Anschliessend beginnend mit dem Webscraping 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-
