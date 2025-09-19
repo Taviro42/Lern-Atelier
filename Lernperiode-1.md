@@ -29,8 +29,8 @@ Ich habe sehr viel gelernt über Docker und mein schon lange nicht mehr benutzte
 
 - [X] Den Minecraft server im Dockerfile wieder Starten
 - [X] Mein erstes simples Dockerfile schreiben
-- [-] Ein dockerfile schreiben das einen Minecraft server erstellt den ich über localhost betreten kann 
-- [-] Suchen nach einer Ressource um Webscraping zu lernen/ damit zu beginnen
+- [ ] Ein dockerfile schreiben das einen Minecraft server erstellt den ich über localhost betreten kann 
+- [ ] Suchen nach einer Ressource um Webscraping zu lernen/ damit zu beginnen
 
 ## 05.09.2025
 
@@ -45,3 +45,4 @@ Sonst:
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+
