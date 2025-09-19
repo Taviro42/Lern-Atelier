@@ -38,10 +38,25 @@ Ich konnte den server erneut starten und habe anschliessend begonnen mich mit do
 
 ## Planung 12.09.2025
 
-- [ ] Wenn ich debian mit RemoteDesktop noch nicht aufgesezt habe ist mein Ziel mich mit Webscraping auseinanderzusetzen was momentan sehr schwierig zu planen ist. 
+- [X] Wenn ich debian mit RemoteDesktop noch nicht aufgesezt habe ist mein Ziel mich mit Webscraping auseinanderzusetzen was momentan sehr schwierig zu planen ist. 
 Sonst:
-- [ ] Schauen das die Dotfiles so funktionieren wie sie sollen und Dinge so einrichten das ich Produktiv arbeiten kann. 
-- [ ] Anschliessend beginnend mit dem Webscraping 
+- [X] Schauen das die Dotfiles so funktionieren wie sie sollen und Dinge so einrichten das ich Produktiv arbeiten kann. 
+- [X] Anschliessend beginnend mit dem Webscraping 
+
+## 12.09.2025
+
+Ich habe weiter gearbeitet an Docker es aber am Schluss nicht geschaft und habe es für ein anderes Projekt aufgegeben. 
+
+## Planung 12.09.2025
+
+- [X] VNC zu meinem PC aufbauen. 
+- [X] Start der VNC automatisieren. 
+- [X] Alles über eine SSH Verbindung.
+
+## 12.09.2025
+
+Ich habe sehr viel über mein Arch Linux System und VNC gelehrnt. Ausserdem konnte ich meinen Login über sddm automatisieren. Nun habe ich eine fertige VNC connection zu meinem PC zuhause. Und ich habe das wissen eine solche auf Arch Linux und auf dem sehr VNC Benutzer unfreundlichen Wayland zu installieren. 
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
