@@ -57,6 +57,12 @@ Ich habe weiter gearbeitet an Docker es aber am Schluss nicht geschaft und habe 
 
 Ich habe sehr viel über mein Arch Linux System und VNC gelehrnt. Ausserdem konnte ich meinen Login über sddm automatisieren. Nun habe ich eine fertige VNC connection zu meinem PC zuhause. Und ich habe das wissen eine solche auf Arch Linux und auf dem sehr VNC Benutzer unfreundlichen Wayland zu installieren. 
 
+## Planung 26.09.2025
+
+- [ ] Bessere Wallpapers auf meinem PC
+- [ ] Beginnen ein Tutoreal für Web Scraping zu suchen
+- [ ] Beginnen über Web Scraping zu lernen
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
