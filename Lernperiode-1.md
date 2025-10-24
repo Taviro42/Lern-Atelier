@@ -1,19 +1,25 @@
 # Lern-Periode 1
+
 Name: Timon Studer
 
 28.08.2025 bis 26.09.2025
 
 ## Grob-Planung
+
 ### Noten
+
 Noch keine Noten erhalten. Keine Prüfungen geschreiben.
 
 ### Veränderungen
+
 Dies ist die erste Lernperiode
 
 ### Projekte / neue Technologien
+
 Ich möchte mich mit Docker bekannt machen. Ich möchte mir ein Projekt suchen und Planen das mir in Zukunft etwas bringen wird und dieses beginnen. 
 
 ### Generelle Ziele
+
 - Docker crash course auf YouTube schauen. (https://www.youtube.com/watch?v=pg19Z8LL06w)
 - Projekt/e die ich schon entwickelt habe auf Docker hochladen und schauen wie das funktioniert. 
 - Projekt durchführen um Docker in Praxis besser kennenzulehrnen.
@@ -25,6 +31,7 @@ Heute habe ich die Basics von Docker gelernt. Ich habe zwei Tutoreal dazu auf Yo
 Ich habe sehr viel gelernt über Docker und mein schon lange nicht mehr benutztes "Linux Knowledge" wiederholt. 
 
 ## Planung 05.09.25
+
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Den Minecraft server im Dockerfile wieder Starten
@@ -63,7 +70,8 @@ Ich habe sehr viel über mein Arch Linux System und VNC gelehrnt. Ausserdem konn
 - [ ] Beginnen ein Tutoreal für Web Scraping zu suchen
 - [ ] Beginnen über Web Scraping zu lernen
 
-
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
+In dieser Lernperiode habe ich definitiv zu wenig Dokumentation geschrieben. Ich glaube ich habe ihr einfach zu wenig Beachtung geschenkt und das Obige ist dabei herrausgekommen. Das Ziel für die Nächste Lernperiode ist das sich dieser Fehler sich nicht wiederholt.
+
+Ich habe die Dokumentation zwar etwas vernachlässigt, aber das bedeutet nicht, dass ich schlecht oder gar nicht gearbeitet habe. Rückblickend würde ich sagen, dass ich sehr viel Neues gelernt habe – angefangen bei den Docker-Grundlagen bis hin zu Arch Linux, wo ich versucht habe, eine VNC-Verbindung unter Wayland einzurichten.
