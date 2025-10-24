@@ -32,7 +32,7 @@ Ideen für [Anki](https://apps.ankiweb.net/) addons:
 
 ## 24.10.2025
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich das Lern-Atelier Reposetory ausgebessert. Ausserdem habe ich an den Moodle aufträgen von M431 gearbeitet weil die Abgabe kurz bevor steht.
 
 ## Planung 23.08.2025
 
