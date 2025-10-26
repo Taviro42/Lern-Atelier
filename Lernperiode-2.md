@@ -34,15 +34,13 @@ Ideen für [Anki](https://apps.ankiweb.net/) addons:
 
 Heute habe ich das Lern-Atelier Reposetory ausgebessert. Ausserdem habe ich an den Moodle aufträgen von M431 gearbeitet weil die Abgabe kurz bevor steht.
 
-## Planung 23.08.2025
+## Planung 31.10.2025
 
-3 bis 5 klar messbare Arbeitspakete.
+Arbeitspackete:
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
+- [ ] Den Spick schreiben für die Prüfung über M319
+- [ ] Versuchen das addon für batch pitch coloring richtig zum laufen bringen. (max. ~2 Stunden)
+- [ ] Versuchen WireGuard zum laufen zu bringen. (max. ~1 Stunde)
 
 ## Lernperiode Reflexion
 
