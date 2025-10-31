@@ -38,9 +38,16 @@ Heute habe ich das Lern-Atelier Reposetory ausgebessert. Ausserdem habe ich an d
 
 Arbeitspackete:
 
-- [ ] Den Spick schreiben für die Prüfung über M319
+- [X] Den Spick schreiben für die Prüfung über M319
 - [ ] Versuchen das addon für batch pitch coloring richtig zum laufen bringen. (max. ~2 Stunden)
 - [ ] Versuchen WireGuard zum laufen zu bringen. (max. ~1 Stunde)
+
+## 31.10.2025
+
+Heute habe ich an dem Spick gearbeitet den wir für die Prüfung über M319 benutzen dürfen. Dann bin ich von Visual Studio zu JetBrains Rider gewechselt und habe mit zusammen mit meinem Team das GitHub repo aufgesetzt.
+
+## Planung 07.11.2025
+
 
 ## Lernperiode Reflexion
 
