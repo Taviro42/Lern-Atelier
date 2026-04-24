@@ -1,0 +1,77 @@
+# Lern-Periode 1
+
+Name: Timon Studer
+
+28.08.2025 bis 26.09.2025
+
+## Grob-Planung
+
+### Noten
+
+Noch keine Noten erhalten. Keine Prüfungen geschreiben.
+
+### Veränderungen
+
+Dies ist die erste Lernperiode
+
+### Projekte / neue Technologien
+
+Ich möchte mich mit Docker bekannt machen. Ich möchte mir ein Projekt suchen und Planen das mir in Zukunft etwas bringen wird und dieses beginnen. 
+
+### Generelle Ziele
+
+- Docker crash course auf YouTube schauen. (https://www.youtube.com/watch?v=pg19Z8LL06w)
+- Projekt/e die ich schon entwickelt habe auf Docker hochladen und schauen wie das funktioniert. 
+- Projekt durchführen um Docker in Praxis besser kennenzulehrnen.
+- Ein Projekt finden mit dem ich zufrieden beginnen kann. Es soll in Zukunft nützlich sein. 
+
+## 29.08.25
+
+Heute habe ich die Basics von Docker gelernt. Ich habe zwei Tutoreal dazu auf YouTube geschaut. Anschliessend habe ich mit Unterstützung von Leonardo meinen ersten Docker Container (Debian) erstellt. Danach habe ich erneut einen Debian Container erstellt und darauf einen simplen (Vanilla) Minecraft Server erstellt. 
+Ich habe sehr viel gelernt über Docker und mein schon lange nicht mehr benutztes "Linux Knowledge" wiederholt. 
+
+## Planung 05.09.25
+
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Den Minecraft server im Dockerfile wieder Starten
+- [X] Mein erstes simples Dockerfile schreiben
+- [ ] Ein dockerfile schreiben das einen Minecraft server erstellt den ich über localhost betreten kann 
+- [ ] Suchen nach einer Ressource um Webscraping zu lernen/ damit zu beginnen
+
+## 05.09.2025
+
+Ich konnte den server erneut starten und habe anschliessend begonnen mich mit dockerfile-syntax auseinanderzusetzen. Mein Projekt mit dem Minecraft server hat zu fehlern geführt und ich habe herrausgefunden das docker für sowas garnicht gedacht ist. Da ich momentan keinen bestimmten nutzen für docker habe werde ich es auf unbestimmte Zeit pausieren und mich anderen Projekten zuwenden. 
+
+## Planung 12.09.2025
+
+- [X] Wenn ich debian mit RemoteDesktop noch nicht aufgesezt habe ist mein Ziel mich mit Webscraping auseinanderzusetzen was momentan sehr schwierig zu planen ist. 
+Sonst:
+- [X] Schauen das die Dotfiles so funktionieren wie sie sollen und Dinge so einrichten das ich Produktiv arbeiten kann. 
+- [X] Anschliessend beginnend mit dem Webscraping 
+
+## 12.09.2025
+
+Ich habe weiter gearbeitet an Docker es aber am Schluss nicht geschaft und habe es für ein anderes Projekt aufgegeben. 
+
+## Planung 12.09.2025
+
+- [X] VNC zu meinem PC aufbauen. 
+- [X] Start der VNC automatisieren. 
+- [X] Alles über eine SSH Verbindung.
+
+## 12.09.2025
+
+Ich habe sehr viel über mein Arch Linux System und VNC gelehrnt. Ausserdem konnte ich meinen Login über sddm automatisieren. Nun habe ich eine fertige VNC connection zu meinem PC zuhause. Und ich habe das wissen eine solche auf Arch Linux und auf dem sehr VNC Benutzer unfreundlichen Wayland zu installieren. 
+
+## Planung 26.09.2025
+
+- [ ] Bessere Wallpapers auf meinem PC
+- [ ] Beginnen ein Tutoreal für Web Scraping zu suchen
+- [ ] Beginnen über Web Scraping zu lernen
+
+## Lernperiode Reflexion
+
+In dieser Lernperiode habe ich definitiv zu wenig Dokumentation geschrieben. Ich glaube ich habe ihr einfach zu wenig Beachtung geschenkt und das Obige ist dabei herrausgekommen. Das Ziel für die Nächste Lernperiode ist das sich dieser Fehler sich nicht wiederholt.
+
+Ich habe die Dokumentation zwar etwas vernachlässigt, aber das bedeutet nicht, dass ich schlecht oder gar nicht gearbeitet habe. Rückblickend würde ich sagen, dass ich sehr viel Neues gelernt habe – angefangen bei den Docker-Grundlagen bis hin zu Arch Linux, wo ich versucht habe, eine VNC-Verbindung unter Wayland einzurichten.
