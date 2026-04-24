@@ -5,14 +5,18 @@ Durch das Schreiben und kontinuierliche Verbessern meiner Dokumentation versuche
 
 ## Aktuelle Lernperiode
 
-[**Lernperiode 2**](Lernperiode-2.md)
-*24.10.2025 - 19.12.2025*
+[**Lernperiode 4**](Lernperiode-4.md)
+*24.04.2026 - laufend*
 
 > **Hauptziel:**
-> Ich möchte die Zeit nutzen um nachzuarbeiten wo ich in den anderen Modulen anstehe. Die restliche Zeit möchte ich dafür nutzen meine [Anki](https://apps.ankiweb.net/) Collection auszubauen.
+> Eine eigene statische Webseite von Grund auf selbst bauen. Fokus auf HTML, CSS und JavaScript – die visuelle Gestaltung übernimmt eine KI.
 
 ## Vergangene Lernperioden
 
+### 2025/2026
+
+24.10.2025 - 19.12.2025: [*Lernperiode 2*](Archive/Lernperiode-2.md)
+
 ### 2025
 
-28.08. - 26.09.: [*Lernperiode 1*](Lernperiode-1.md)
+28.08. - 26.09.: [*Lernperiode 1*](Archive/Lernperiode-1.md)
