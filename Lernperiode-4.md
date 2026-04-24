@@ -25,3 +25,11 @@ Als Referenz und Leitfaden dient die [Roadmap](Roadmap-Webseite.md), die 15 Phas
 - Experimente mit dem Arduino
 - Planung der neuen Lernperiode
 
+## Planung 08.05.2026
+
+- [ ] Phase 1 – Projekt-Skeleton: `index.html` mit Grundstruktur (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`) erstellen (~30 min)
+- [ ] Phase 2 – Webserver einrichten: lokalen Server aufsetzen, Seite im Browser laden (~45 min)
+- [ ] Phase 3 – HTML-Inhalte: Überschriften, Absätze, Listen und Links einfügen (~45 min)
+- [ ] Phase 4 – Erstes CSS: `style.css` erstellen, einbinden, erste Elemente stylen (~75 min)
+- [ ] Phase 5 – Nav-Layout mit Flexbox *(Stretch-Ziel, falls Zeit bleibt)*
+
