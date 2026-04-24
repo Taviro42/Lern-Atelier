@@ -19,4 +19,9 @@ Als Referenz und Leitfaden dient die [Roadmap](Roadmap-Webseite.md), die 15 Phas
 - Die Grundkonzepte von HTML, CSS und JavaScript verstanden haben 
 - Die Phasen 1–11 der [Roadmap](Roadmap-Webseite.md) (ungefähr) abgeschlossen haben 
 
+## 24.04.2026
+
+- Die Aufgabe 'ArduinoKennenlernen' erledigt
+- Experimente mit dem Arduino
+- Planung der neuen Lernperiode
 
