@@ -27,9 +27,21 @@ Als Referenz und Leitfaden dient die [Roadmap](Roadmap-Webseite.md), die 15 Phas
 
 ## Planung 08.05.2026
 
-- [ ] Phase 1 – Projekt-Skeleton: `index.html` mit Grundstruktur (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`) erstellen (~30 min)
-- [ ] Phase 2 – Webserver einrichten: lokalen Server aufsetzen, Seite im Browser laden (~45 min)
-- [ ] Phase 3 – HTML-Inhalte: Überschriften, Absätze, Listen und Links einfügen (~45 min)
-- [ ] Phase 4 – Erstes CSS: `style.css` erstellen, einbinden, erste Elemente stylen (~75 min)
-- [ ] Phase 5 – Nav-Layout mit Flexbox *(Stretch-Ziel, falls Zeit bleibt)*
+- [x] Phase 1 – Projekt-Skeleton: `index.html` mit Grundstruktur (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`) erstellen (~30 min)
+- [x] Phase 2 – Webserver einrichten: lokalen Server aufsetzen, Seite im Browser laden (~45 min)
+- [x] Phase 3 – HTML-Inhalte: Überschriften, Absätze, Listen und Links einfügen (~45 min)
+- [x] Phase 4 – Erstes CSS: `style.css` erstellen, einbinden, erste Elemente stylen (~75 min)
+- [x] Phase 5 – Nav-Layout mit Flexbox *(Stretch-Ziel, falls Zeit bleibt)*
+
+## 08.05.2026
+
+Heute habe ich alle geplanten Phasen 1–5 abgeschlossen und sogar das Stretch-Ziel erreicht. Ich habe das Projekt `mysite/` mit `index.html` aufgesetzt, Apache als lokalen Webserver konfiguriert und die Seite im Browser geladen. Dann habe ich das erste Stylesheet hinzugefügt. In Phase 5 habe ich eine fixe Navigationsleiste mit Flexbox gebaut (dunkler Hintergrund, weisse Links, Drop Shadow). Gelernt habe ich auch den Unterschied zwischen Flex- und Block-Layout sowie die Wirkung von `position: fixed`.
+
+## Planung 22.05.2026
+
+- [ ] Phase 6 abschliessen – Google Fonts via `@import` einbinden und auf Nav, Headings und Body anwenden (~45 min)
+- [ ] Phase 7 – Zweite Seite (`plan.html`) erstellen und aus der Nav verlinken (~60 min)
+- [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
+- [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
+- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
