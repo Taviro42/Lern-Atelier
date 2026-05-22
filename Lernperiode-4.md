@@ -39,9 +39,24 @@ Heute habe ich alle geplanten Phasen 1–5 abgeschlossen und sogar das Stretch-Z
 
 ## Planung 22.05.2026
 
-- [ ] Phase 6 abschliessen – Google Fonts via `@import` einbinden und auf Nav, Headings und Body anwenden (~45 min)
-- [ ] Phase 7 – Zweite Seite (`plan.html`) erstellen und aus der Nav verlinken (~60 min)
+- [x] Phase 6 abschliessen – Google Fonts via `@import` einbinden und auf Nav, Headings und Body anwenden (~45 min)
+- [x] Phase 7 – Zweite Seite (`plan.html`) erstellen und aus der Nav verlinken (~60 min)
 - [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
 - [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
 - [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+
+- [x] Working directory optimieren
+
+## 22.05.2026
+
+Heute bin ich etwas vom plan abgekommen weil ich das Betriebssystem gewechselt und dadurch ein paar Dinge neu installieren musste. Ausserdem war ich sehr unzufrieden mit meinem Dateisystem und habe deshalb mir Zeit genommen ein sinnvolles Konzept auszuarbeiten. Mit der Webseite bin ich am Schluss doch noch voran gekommen. 
+
+## Planung 29.05.2026
+
+- [ ] Den Text und die Struktur von `index.html` finalisieren.
+- [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
+- [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
+- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+
+
 
