@@ -1,10 +1,20 @@
-# Lern-Periode 3
+# Lern-Periode 4
 
 Name: Timon Studer
 
-24.04.2026 bis __.__.2026
+24.04.2026 bis 03.07.2026
 
 ## Grob-Planung
+
+### Noten
+
+Ich bin algemein sehr zufrieden mit meinen Noten bisher. 
+Im Modul 162 war ich bisher am schlechesten, jedoch trotzdem noch genügend. Bei den beiden nachfolgenden Modulen bin ich auch gut nachgekommen.
+
+### Veränderungen
+
+Von der Lernperiode 3 gibt es leider keine Planungs-Datei. 
+Ich habe einigermassen Effizient gearbeitet und sehr viel gelernt über Linux und Networking. Ausserdem habe ich zwei kleine Projekte programmiert: 1. Blackjack in c# 2. Word frequency counter in Python (Nicht fertig). Jedoch hatte ich Probleme konsistent zu bleiben und bin immer wieder von Projekt zu Projekt hin und her gewechselt. Dies habe ich vor in Lernperiode 4 zu verbessern. 
 
 ### Projekte / neue Technologien
 
@@ -59,4 +69,6 @@ Heute bin ich etwas vom plan abgekommen weil ich das Betriebssystem gewechselt u
 - [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
 
+## Lernperiode Reflexion
 
+Die Lernperiode ist noch nicht zuende
