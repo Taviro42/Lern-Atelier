@@ -51,9 +51,9 @@ Heute habe ich alle geplanten Phasen 1–5 abgeschlossen und sogar das Stretch-Z
 
 - [x] Phase 6 abschliessen – Google Fonts via `@import` einbinden und auf Nav, Headings und Body anwenden (~45 min)
 - [x] Phase 7 – Zweite Seite (`plan.html`) erstellen und aus der Nav verlinken (~60 min)
-- [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
-- [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
-- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+- [-] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
+- [-] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
+- [-] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
 - [x] Working directory optimieren
 
@@ -63,11 +63,20 @@ Heute bin ich etwas vom plan abgekommen weil ich das Betriebssystem gewechselt u
 
 ## Planung 29.05.2026
 
-- [ ] Den Text und die Struktur von `index.html` finalisieren.
-- [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
-- [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
-- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+- [-] Den Text und die Struktur von `index.html` finalisieren. (<-- noch nicht möglich)
+- [x] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
+- [x] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
+- [-] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
+## 29.05.2026
+
+Heute habe ich zum ersten Mal JavaScript benutzt. Ich habe die basis Syntax gelernt und mit async ein markdownfile als text auf der Webseite angezeigt. Ich habe zwar grundsätzlich nach Plan gearbeitet aber weniger erreicht als ich wollte.
+
+## Planung 05.06.2026
+
+- [ ] Phase 10 – Markdown mit `marked.js` rendern: `marked.js` via CDN-`<script>`-Tag einbinden, geladenen Text in HTML umwandeln und einfügen (~60 min)
+- [ ] Phase 11 – Linke Sidebar: DOM nach Überschriften durchsuchen, dynamisch eine klickbare Sidebar-Liste aufbauen (~75 min)
+- [ ] Phase 12 – Sidebar-Design *(Stretch-Ziel, KI übernimmt Look-and-Feel)*
 
 ## Lernperiode Reflexion
 
