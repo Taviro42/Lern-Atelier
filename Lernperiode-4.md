@@ -74,10 +74,22 @@ Heute habe ich zum ersten Mal JavaScript benutzt. Ich habe die basis Syntax gele
 
 ## Planung 05.06.2026
 
-- [ ] Phase 10 – Markdown mit `marked.js` rendern: `marked.js` via CDN-`<script>`-Tag einbinden, geladenen Text in HTML umwandeln und einfügen (~60 min)
-- [ ] Phase 11 – Linke Sidebar: DOM nach Überschriften durchsuchen, dynamisch eine klickbare Sidebar-Liste aufbauen (~75 min)
-- [ ] Phase 12 – Sidebar-Design *(Stretch-Ziel, KI übernimmt Look-and-Feel)*
+- [x] Phase 10 – Markdown mit `marked.js` rendern: `marked.js` via CDN-`<script>`-Tag einbinden, geladenen Text in HTML umwandeln und einfügen (~60 min)
+- [-] Phase 11 – Linke Sidebar: DOM nach Überschriften durchsuchen, dynamisch eine klickbare Sidebar-Liste aufbauen (~75 min)
+- [-] Phase 12 – Sidebar-Design *(Stretch-Ziel, KI übernimmt Look-and-Feel)*
 
+## 05.06.2026
+
+Heute habe ich viel mit JavaScript gearbeitet. Ich habe sehr viel gelernt über async und wie ich HTML modifiziere mit JavaScript. Ich habe Phase 10 abgeschlossen aber die anderen Ziele nicht erreicht weil ich es richtig machen wollte. Es sind einige unerwartete Probleme aufgetretten weil meine Markdown im Obsidian Flavor geschrieben ist. Darum musste einige Dinge die Marked nich parsen konnte selbst implementieren. 
+
+## Planung 12.06.2026
+
+- [ ] Phase 11 – Linke Sidebar: DOM nach `<h1>`–`<h3>` durchsuchen, für jede Überschrift ein `<a>`-Element mit `id`-Anker erzeugen und in eine Sidebar-Liste einfügen (~75 min)
+  - Konzept: DOM-Traversierung (`querySelectorAll`), Elemente per JS erstellen (`createElement`, `appendChild`), Anker-Links (`id` + `#fragment`)
+- [ ] Phase 12 – Sidebar-Design: Breite, Einrückung, Hover-Farben, Highlight der aktiven Sektion *(Stretch-Ziel, KI übernimmt Look-and-Feel)* (~45 min)
+- [ ] Phase 13 – Animierter Unterstrich in der Nav *(nur falls viel Zeit bleibt, KI-gestützt)* (~30 min)
+
+ 
 ## Lernperiode Reflexion
 
 Die Lernperiode ist noch nicht zuende
