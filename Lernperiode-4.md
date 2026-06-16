@@ -84,11 +84,21 @@ Heute habe ich viel mit JavaScript gearbeitet. Ich habe sehr viel gelernt über 
 
 ## Planung 12.06.2026
 
-- [ ] Phase 11 – Linke Sidebar: DOM nach `<h1>`–`<h3>` durchsuchen, für jede Überschrift ein `<a>`-Element mit `id`-Anker erzeugen und in eine Sidebar-Liste einfügen (~75 min)
+- [x] Phase 11 – Linke Sidebar: DOM nach `<h1>`–`<h3>` durchsuchen, für jede Überschrift ein `<a>`-Element mit `id`-Anker erzeugen und in eine Sidebar-Liste einfügen (~75 min)
   - Konzept: DOM-Traversierung (`querySelectorAll`), Elemente per JS erstellen (`createElement`, `appendChild`), Anker-Links (`id` + `#fragment`)
-- [ ] Phase 12 – Sidebar-Design: Breite, Einrückung, Hover-Farben, Highlight der aktiven Sektion *(Stretch-Ziel, KI übernimmt Look-and-Feel)* (~45 min)
-- [ ] Phase 13 – Animierter Unterstrich in der Nav *(nur falls viel Zeit bleibt, KI-gestützt)* (~30 min)
+- [x] Phase 12 – Sidebar-Design: Breite, Einrückung, Hover-Farben, Highlight der aktiven Sektion *(Stretch-Ziel, KI übernimmt Look-and-Feel)* (~45 min)
+- [-] Phase 13 – Animierter Unterstrich in der Nav *(nur falls viel Zeit bleibt, KI-gestützt)* (~30 min)
 
+## 12.06.2026
+
+Heute habe ich den ganzen Nachmittag an der Sidebar gearbeitet. Der JavaScript Code war eine echte Herrausforderung und ich bin auch nach dem ich das Hauptproblem in Theorie gelöst hatte bei der Umsetzung noch auf viele andere Probleme gestossen. Ich konnte sehr vieles lernen bin jedoch immernoch etwas unsicher bei der Arbeit mit async.
+
+## Planung 19.06.2026
+
+- [ ] Phase 13 – Animierter Unterstrich in der Nav: CSS-Keyframes/Transitions selbst schreiben, ein Element dessen Position sich je nach aktivem Nav-Link ändert (~90 min)
+  - Konzept: CSS-Übergänge vs. Animationen, Positionierung relativ zum aktiven Link
+- [ ] `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [ ] neue Seite für Tickets hinzufügen
  
 ## Lernperiode Reflexion
 
