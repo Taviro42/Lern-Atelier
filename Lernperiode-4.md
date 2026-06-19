@@ -95,11 +95,25 @@ Heute habe ich den ganzen Nachmittag an der Sidebar gearbeitet. Der JavaScript C
 
 ## Planung 19.06.2026
 
-- [ ] Phase 13 – Animierter Unterstrich in der Nav: CSS-Keyframes/Transitions selbst schreiben, ein Element dessen Position sich je nach aktivem Nav-Link ändert (~90 min)
+- [x] Phase 13 – Animierter Unterstrich in der Nav: CSS-Keyframes/Transitions selbst schreiben, ein Element dessen Position sich je nach aktivem Nav-Link ändert (~90 min)
   - Konzept: CSS-Übergänge vs. Animationen, Positionierung relativ zum aktiven Link
-- [ ] `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [-] `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [-] neue Seite für Tickets hinzufügen
+
+- [x] CSS für mobile
+- [x] Hamburger menu für sidebar auf mobile
+- [x] CSS für sidebar fertig
+
+## 19.06.2026
+
+Heute habe ich die sidebar komplett fertig gestellt. Hiermit ist die seite Plan.html komplett und das auch für mobile. Das setup für den apache server ist auch schon fertig. Ich habe weiterhin viel mit JavaScript gearbeitet merke aber so langsam das das script ein wenig 'refactoring' benötigt. 
+
+## Planung 26.06.2026
+
+- [ ] (optional) `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [ ] Webseite auf den Apache server hochladen
 - [ ] neue Seite für Tickets hinzufügen
- 
+
 ## Lernperiode Reflexion
 
 Die Lernperiode ist noch nicht zuende
