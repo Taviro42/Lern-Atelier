@@ -110,10 +110,15 @@ Heute habe ich die sidebar komplett fertig gestellt. Hiermit ist die seite Plan.
 
 ## Planung 26.06.2026
 
-- [ ] (optional) `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
-- [ ] Webseite auf den Apache server hochladen
-- [ ] neue Seite für Tickets hinzufügen
+- [x] (optional) `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [x] Webseite auf den Apache server hochladen
+- [x] neue Seite für Tickets hinzufügen
+
+## 26.06.2026
+
+Ich konnte das Projekt so gut wie abschliessen. Die grösste Herrausvorderung war die grösse der Iframes auf der Ticket-Seite. Die Webseite ist auf dem Server hochgeladen. Es fehlen noch letzte kleine Änderungen welche ich in meiner Freizeit erledigen werde. 
 
 ## Lernperiode Reflexion
 
-Die Lernperiode ist noch nicht zuende
+Ich bewerte diese Lernperiode als sehr erfolgreich. Während dieser Lernperiode konnte ich am bis jetzt effizientesten arbeiten. Ich habe nicht immer ganz nach Plan gearbeitet und bin auch einige Male nicht mit allem fertig geworden, was ich erledigen wollte. Jedoch konnte ich das Projekt, das ich mir vorgenommen hatte, bis auf ein paar Details abschliessen weshalb ich es als einen Erfolg zähle. 
+Für das nächste Mal möchte ich mir noch ein wenig mehr Zeit nehmen für die Planung des Projekts selbst damit ich es einfacher habe, die Planungen während der Lernperiode umzusetzen. 
