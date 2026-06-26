@@ -51,9 +51,9 @@ Heute habe ich alle geplanten Phasen 1–5 abgeschlossen und sogar das Stretch-Z
 
 - [x] Phase 6 abschliessen – Google Fonts via `@import` einbinden und auf Nav, Headings und Body anwenden (~45 min)
 - [x] Phase 7 – Zweite Seite (`plan.html`) erstellen und aus der Nav verlinken (~60 min)
-- [-] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
-- [-] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
-- [-] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+- [ ] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
+- [ ] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
+- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
 - [x] Working directory optimieren
 
@@ -63,10 +63,10 @@ Heute bin ich etwas vom plan abgekommen weil ich das Betriebssystem gewechselt u
 
 ## Planung 29.05.2026
 
-- [-] Den Text und die Struktur von `index.html` finalisieren. (<-- noch nicht möglich)
+- [ ] Den Text und die Struktur von `index.html` finalisieren. (<-- noch nicht möglich)
 - [x] Phase 8 – Erstes JavaScript: `main.js` einbinden, mit `document.querySelector` und einem Event-Listener experimentieren (~75 min)
 - [x] Phase 9 – Markdown-Datei mit `fetch()` laden und rohen Text anzeigen (~75 min)
-- [-] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
+- [ ] Phase 10 – Markdown mit `marked.js` rendern *(Stretch-Ziel, falls Zeit bleibt)*
 
 ## 29.05.2026
 
@@ -75,8 +75,8 @@ Heute habe ich zum ersten Mal JavaScript benutzt. Ich habe die basis Syntax gele
 ## Planung 05.06.2026
 
 - [x] Phase 10 – Markdown mit `marked.js` rendern: `marked.js` via CDN-`<script>`-Tag einbinden, geladenen Text in HTML umwandeln und einfügen (~60 min)
-- [-] Phase 11 – Linke Sidebar: DOM nach Überschriften durchsuchen, dynamisch eine klickbare Sidebar-Liste aufbauen (~75 min)
-- [-] Phase 12 – Sidebar-Design *(Stretch-Ziel, KI übernimmt Look-and-Feel)*
+- [ ] Phase 11 – Linke Sidebar: DOM nach Überschriften durchsuchen, dynamisch eine klickbare Sidebar-Liste aufbauen (~75 min)
+- [ ] Phase 12 – Sidebar-Design *(Stretch-Ziel, KI übernimmt Look-and-Feel)*
 
 ## 05.06.2026
 
@@ -87,7 +87,7 @@ Heute habe ich viel mit JavaScript gearbeitet. Ich habe sehr viel gelernt über 
 - [x] Phase 11 – Linke Sidebar: DOM nach `<h1>`–`<h3>` durchsuchen, für jede Überschrift ein `<a>`-Element mit `id`-Anker erzeugen und in eine Sidebar-Liste einfügen (~75 min)
   - Konzept: DOM-Traversierung (`querySelectorAll`), Elemente per JS erstellen (`createElement`, `appendChild`), Anker-Links (`id` + `#fragment`)
 - [x] Phase 12 – Sidebar-Design: Breite, Einrückung, Hover-Farben, Highlight der aktiven Sektion *(Stretch-Ziel, KI übernimmt Look-and-Feel)* (~45 min)
-- [-] Phase 13 – Animierter Unterstrich in der Nav *(nur falls viel Zeit bleibt, KI-gestützt)* (~30 min)
+- [ ] Phase 13 – Animierter Unterstrich in der Nav *(nur falls viel Zeit bleibt, KI-gestützt)* (~30 min)
 
 ## 12.06.2026
 
@@ -97,8 +97,8 @@ Heute habe ich den ganzen Nachmittag an der Sidebar gearbeitet. Der JavaScript C
 
 - [x] Phase 13 – Animierter Unterstrich in der Nav: CSS-Keyframes/Transitions selbst schreiben, ein Element dessen Position sich je nach aktivem Nav-Link ändert (~90 min)
   - Konzept: CSS-Übergänge vs. Animationen, Positionierung relativ zum aktiven Link
-- [-] `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
-- [-] neue Seite für Tickets hinzufügen
+- [ ] `index.html` finalisieren – Text und Struktur des Inhalts fertigstellen (~60 min)
+- [ ] neue Seite für Tickets hinzufügen
 
 - [x] CSS für mobile
 - [x] Hamburger menu für sidebar auf mobile
