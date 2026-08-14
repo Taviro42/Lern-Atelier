@@ -36,11 +36,13 @@ Architektur-Entscheidungen aus der Planung:
 
 ## 14.08.2026
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich die Planung ausgearbeitet für mein neues Project. Ich konnte mir eine ziemlich genaue Vorstellung bilden und das Gerüst ist aufgebaut. Dannach hatte ich probleme mit github was mir leider viel Zeit gekostet hat. Deshalb konnte ich noch nicht beginnen Code zu schreiben.
 
 ## 21.08.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] Die Entity Klasse schreiben
+- [ ] Die erste statische Karte schreiben
+- [ ] Die Karte im Terminal anzeigen lassen
 
 (Heute habe ich... (50-100 Wörter))
 
