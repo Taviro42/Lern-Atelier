@@ -36,6 +36,10 @@ Architektur-Entscheidungen aus der Planung:
 
 ## 14.08.2026
 
+- [x] Projekt finden
+- [x] Git repo erstellen
+- [x] Working directory aufsetzen
+
 Heute habe ich die Planung ausgearbeitet für mein neues Project. Ich konnte mir eine ziemlich genaue Vorstellung bilden und das Gerüst ist aufgebaut. Dannach hatte ich probleme mit github was mir leider viel Zeit gekostet hat. Deshalb konnte ich noch nicht beginnen Code zu schreiben.
 
 ## 21.08.2026
