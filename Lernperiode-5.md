@@ -44,15 +44,17 @@ Heute habe ich die Planung ausgearbeitet für mein neues Project. Ich konnte mir
 
 ## 21.08.2026
 
-- [ ] Die Entity Klasse schreiben
-- [ ] Die erste statische Karte schreiben
-- [ ] Die Karte im Terminal anzeigen lassen
+- [x] Die Entity Klasse schreiben
+- [x] Die erste statische Karte schreiben
+- [x] Die Karte im Terminal anzeigen lassen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Entity Klasse und die erste Karte hinzugefügt. Ich habe eine Funktion geschrieben um den Player auf dieser Karte zu bewegen. Diese funktioniert noch nicht vollständig was nächstes Mal das Hauptziel sein wird.
 
 ## 28.08.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] Die moveEntity Funktion zum laufen bringen
+- [ ] Die Bewegung mit den Pfeil-Tasten zum laufen bringen
+- [ ] Ein Entity daran hindern gegen eine Wand zu laufen
 
 (Heute habe ich... (50-100 Wörter))
 
