@@ -60,15 +60,18 @@ Heute bin ich etwas vom Weg abgekommen. Als ich meinen Code wider anschaute merk
 
 ## 04.09.2026
 
-- [ ] Die Refactoring Liste abarbeiten die ich mit AI geschrieben habe, damit der Code wider lesbar ist
-- [ ] Bugfix: Bei der Bewegung den Player an der alten Position erfolgreich löschen
+- [x] Die Refactoring Liste abarbeiten die ich mit AI geschrieben habe, damit der Code wider lesbar ist
+- [x] Bugfix: Bei der Bewegung den Player an der alten Position erfolgreich löschen
 - [ ] Feature: Ein Entity daran hindern gegen ein Hinderniss zu laufen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die alle Probleme auf der Refactoring Liste abgearbeitet und der Code hat somit sehr viel an Qualität gewonnen. Es war viel einfacher das Problem mit der Bewegungsfuntion zu lösen weil der Code einfacher zu lesen war. Das neue Feature funktioniert noch nicht ganz ist aber fast fertig implementiert.
 
 ## 11.09.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] Bugfix: Bei einem Hinderniss wird die target Variable trotzdem verändert.
+- [ ] Bugfix: Die Logic um herrauszufinden ob das target ein Hinderniss ist funtioniert noch nicht
+- [ ] 1 Neue Karte erstellen (in einer neuer Datei)
+- [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
 
 (Heute habe ich... (50-100 Wörter))
 
