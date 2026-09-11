@@ -68,16 +68,18 @@ Heute habe ich die alle Probleme auf der Refactoring Liste abgearbeitet und der 
 
 ## 11.09.2026
 
-- [ ] Bugfix: Bei einem Hinderniss wird die target Variable trotzdem verändert.
-- [ ] Bugfix: Die Logic um herrauszufinden ob das target ein Hinderniss ist funtioniert noch nicht
+- [x] Bugfix: Bei einem Hinderniss wird die target Variable trotzdem verändert.
+- [x] Bugfix: Die Logic um herrauszufinden ob das target ein Hinderniss ist funtioniert noch nicht
 - [ ] 1 Neue Karte erstellen (in einer neuer Datei)
 - [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich wieder viel Zeit mit Refactoring verbracht. Ich habe die Map Klasse statisch gemacht. Die Logik die ein Entity bewegt ist nun in der Entity Klasse und nicht mehr in Map. Die Render() Funktion cleared nun die Console befor sie die Karte schreibt. 
 
 ## 18.09.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] 1 Neue Karte erstellen (in einer neuer Datei)
+- [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
+- [ ] Feature: Tür ('+') lädt den nächsten Raum
 
 (Heute habe ich... (50-100 Wörter))
 
