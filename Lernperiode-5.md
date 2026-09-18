@@ -77,15 +77,17 @@ Heute habe ich wieder viel Zeit mit Refactoring verbracht. Ich habe die Map Klas
 
 ## 18.09.2026
 
-- [ ] 1 Neue Karte erstellen (in einer neuer Datei)
+- [x] 1 Neue Karte erstellen (in einer neuer Datei)
 - [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
 - [ ] Feature: Tür ('+') lädt den nächsten Raum
 
-(Heute habe ich... (50-100 Wörter))
+Die Karte ist erstellt aber mit den beiden neuen Features bin ich noch nicht fertig geworden. Sie brauchen mehr Zeit als gedacht weil ich es richtig mit einer StateMachine implementieren möchte. Ausserdem habe ich noch etwas Zeit benötigt um etwas aus einem Modul nachzuholen.
 
 ## 25.09.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
+- [ ] Feature: Tür ('+') lädt den nächsten Raum
+- [ ] StateMachine fertig implementieren mit einer festen reihenfolge für die Räume in der der Spieler hin und zurück gehen kann
 
 (Heute habe ich... (50-100 Wörter))
 
