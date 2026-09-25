@@ -85,12 +85,12 @@ Die Karte ist erstellt aber mit den beiden neuen Features bin ich noch nicht fer
 
 ## 25.09.2026
 
-- [ ] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
-- [ ] Feature: Tür ('+') lädt den nächsten Raum
-- [ ] StateMachine fertig implementieren mit einer festen reihenfolge für die Räume in der der Spieler hin und zurück gehen kann
+- [x] Feature: Die Möglichkeit zu haben eine zweite Karte zu laden.
+- [x] Feature: Tür ('+') lädt den nächsten Raum
+- [x] StateMachine fertig implementieren mit einer festen reihenfolge für die Räume in der der Spieler hin und zurück gehen kann
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe die Tür implementiert. Dazu habe ich eine statische Klasse mit für die Pfade zu den Dateien mit den Karten geschreiben. Die StateMachine ist simpler als ich gedacht habe ein Field in der Map Klasse. Den Auslöser habe ich in die Move funktion der Entity Klasse geschrieben.
 
 ## Lernperiode Reflexion
 
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Ich bin alles in allem ziemlich zufrieden mit dieser Lernperiode. Das Spiel ist noch lange nicht "fertig" aber das war auch nicht wirklich das Ziel. Ich konnte sehr viele neue Erfahrungen sammeln. Für ein nächstes Mal nehme ich mir vor von Anfang an mehr Zeit für die Planung zu nutzen. Ich hatte sehr viele Probleme die sich damit einfach vermeiden hätte können. Zummindest möchte ich die gerobe Klassenstrucktur aufzeichen das ich etwas habe an dem ich mich richten kann ohne das ich die Funktionen mehrmals zwischen den Klassen hin und her schieben muss. 
