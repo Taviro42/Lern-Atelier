@@ -29,14 +29,14 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-Ich stehe gut mit meinen Noten. Die Note die ich bereits zurückerhalten habe war sehr gut. Bei den anderen LBs habe ich ebenfalls ein gutes Gefühl.
+Ich stehe gut mit meinen Noten. Die Note, die ich bereits zurückerhalten habe, war sehr gut. Bei den anderen LBs habe ich ebenfalls ein gutes Gefühl.
 
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-Ich möchte versuchen generell weniger KI zu nutzen.
+Ich möchte versuchen, generell weniger KI zu nutzen.
 
 ### Projekte / neue Technologien
 <!--
@@ -44,6 +44,8 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
+
+Repo: [Taviro42/maze-solver](https://github.com/Taviro42/maze-solver)
 
 Das Projekt schreibe ich in C# als Console-App. Das Labyrinth speichere ich als 2D-Array, und den kürzesten Weg suche ich mit einer Breitensuche (BFS), die mit einer Queue arbeitet. Mein Ziel ist, dass ich am Ende einen funktionierenden Solver habe und verstehe, wie BFS funktioniert und warum sie den kürzesten Weg findet.
 
@@ -80,9 +82,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [x] Das neue Projekt grob planen
+- [x] Die Test-Labyrinthe erstellen
+- [ ] Einlesen der Dateien, Speichern als 2D-Array und Ausgabe im Terminal
 
 
 #### Tagesreflexion
@@ -93,14 +95,14 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
+Die Test-Labyrinthe sind erstellt. Ich habe mit der Funktion ReadMazeFile() begonnen, komme aber bei der Konvertierung zu einem 2D-Array nicht weiter. Der aktuelle Fehler ist: System.IndexOutOfRangeException. 
 
 ### Planung 30.10.2026
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Konvertierung zum 2D-Array fertigstellen
+- [ ] Recherche, um die Frage "Ist BFS der Algorithmus, den ich für dieses Projekt nutzen möchte?" zu beantworten
+- [ ] Recherche, um die Frage "Wie funktioniert der Algorithmus, den ich für dieses Projekt nutzen möchte, und wie implementiere ich ihn in .NET?" zu beantworten
+- [ ] Die Ergebnisse der Recherche in eigenen Worten aufschreiben
 
 
 #### Tagesreflexion

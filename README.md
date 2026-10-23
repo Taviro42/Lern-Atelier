@@ -5,13 +5,19 @@ Durch das Schreiben und kontinuierliche Verbessern meiner Dokumentation versuche
 
 ## Aktuelle Lernperiode
 
-[**Lernperiode 5**](Lernperiode-5.md)
-*14.08.2026 - laufend (bis 25.09.2026)*
+[**Lernperiode 6**](Lernperiode-6.md)
+*23.10.2026 - laufend (bis 18.12.2026)*
 
 > **Hauptziel:**
-> OOP üben und dabei schneller im Programmieren werden. Dazu entsteht ein terminalbasiertes Roguelike in C# (.NET Console-App, ohne Game-Framework), inspiriert von NetHack.
+> Einen Labyrinth-Solver in C# (.NET Console-App) bauen, der den kürzesten Weg mit einer selbst geschriebenen Breitensuche (BFS) findet, und verstehen, warum BFS den kürzesten Weg findet. Den gesamten Code schreibe ich selbst, ohne KI.
+>
+> **Repo:** [Taviro42/maze-solver](https://github.com/Taviro42/maze-solver)
 
 ## Vergangene Lernperioden
+
+### 2026/2027
+
+14.08.2026 - 25.09.2026: [*Lernperiode 5*](Archive/Lernperiode-5.md) – terminalbasiertes Roguelike in C#, um OOP zu üben
 
 ### 2025/2026
 
@@ -23,5 +29,6 @@ Durch das Schreiben und kontinuierliche Verbessern meiner Dokumentation versuche
 
 ## Weitere Dateien
 
-- [`_TEMPLATE_Lernperiode-X.md`](_TEMPLATE_Lernperiode-X.md) – Vorlage für eine neue Lernperiode
+- [`ILA2-Vorlage-Lernperiode.md`](ILA2-Vorlage-Lernperiode.md) – Vorlage für eine neue Lernperiode
+- [`_TEMPLATE_Lernperiode-X.md`](Archive/_TEMPLATE_Lernperiode-X.md) – alte Vorlage (bis Lernperiode 5)
 - [`Roadmap-Webseite.md`](Roadmap-Webseite.md) – Roadmap aus dem Webseiten-Projekt von Lernperiode 4
