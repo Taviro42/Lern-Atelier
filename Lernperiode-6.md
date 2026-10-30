@@ -95,27 +95,32 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Die Test-Labyrinthe sind erstellt. Ich habe mit der Funktion ReadMazeFile() begonnen, komme aber bei der Konvertierung zu einem 2D-Array nicht weiter. Der aktuelle Fehler ist: System.IndexOutOfRangeException. 
+Die Test-Labyrinthe sind erstellt. Ich habe mit der Funktion ReadMazeFile() begonnen, komme aber bei der Konvertierung zu einem 2D-Array nicht weiter. Der aktuelle Fehler ist: System.IndexOutOfRangeException.
 
 ### Planung 30.10.2026
 
-- [ ] Konvertierung zum 2D-Array fertigstellen
+- [x] Konvertierung zum 2D-Array fertigstellen
 - [ ] Recherche, um die Frage "Ist BFS der Algorithmus, den ich für dieses Projekt nutzen möchte?" zu beantworten
 - [ ] Recherche, um die Frage "Wie funktioniert der Algorithmus, den ich für dieses Projekt nutzen möchte, und wie implementiere ich ihn in .NET?" zu beantworten
 - [ ] Die Ergebnisse der Recherche in eigenen Worten aufschreiben
 
+- [x] Unit-Test für die ReadMazeFile()-Methode
+
 
 #### Tagesreflexion
 
-...Ihr Text...
+Die ReadMazeFile()-Methode funktioniert. Die Solution ist nun in ein App- und ein Test-Projekt aufgeteilt. Ausserdem habe ich die '.gitignore' geschrieben und einen Unit-Test für ReadMazeFile(maze1.txt) erstellt.
 
+Der Unit-Test hat ziemlich lange gedauert: zum einen wegen des Setups der Solution, damit die beiden Projekte richtig referenziert sind, und zum anderen, um herauszufinden, wie ich die beiden Arrays in der Test-Methode richtig vergleiche (Assert.AreSequenceEqual()).
+
+Mit der Recherche bin ich noch nicht fertig geworden. Ich setze sie nächstes Mal fort.
 
 ### Planung 06.11.2026
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Recherche, um die Frage "Ist BFS der Algorithmus, den ich für dieses Projekt nutzen möchte?" zu beantworten
+- [ ] Recherche, um die Frage "Wie funktioniert der Algorithmus, den ich für dieses Projekt nutzen möchte, und wie implementiere ich ihn in .NET?" zu beantworten
+- [ ] Vollständige Planung, wie ich den Algorithmus im Code implementiere
+- [ ] Die Ergebnisse der Recherche in eigenen Worten aufschreiben
 
 #### Tagesreflexion
 
