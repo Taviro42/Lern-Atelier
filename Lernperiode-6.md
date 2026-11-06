@@ -117,22 +117,29 @@ Mit der Recherche bin ich noch nicht fertig geworden. Ich setze sie nächstes Ma
 
 ### Planung 06.11.2026
 
-- [ ] Recherche, um die Frage "Ist BFS der Algorithmus, den ich für dieses Projekt nutzen möchte?" zu beantworten
-- [ ] Recherche, um die Frage "Wie funktioniert der Algorithmus, den ich für dieses Projekt nutzen möchte, und wie implementiere ich ihn in .NET?" zu beantworten
-- [ ] Vollständige Planung, wie ich den Algorithmus im Code implementiere
-- [ ] Die Ergebnisse der Recherche in eigenen Worten aufschreiben
+- [x] Recherche, um die Frage "Ist BFS der Algorithmus, den ich für dieses Projekt nutzen möchte?" zu beantworten
+- [x] Recherche, um die Frage "Wie funktioniert der Algorithmus, den ich für dieses Projekt nutzen möchte, und wie implementiere ich ihn in .NET?" zu beantworten
+- [x] Vollständige Planung, wie ich den Algorithmus im Code implementiere
+- [x] Die Ergebnisse der Recherche in eigenen Worten aufschreiben
 
 #### Tagesreflexion
 
-...Ihr Text...
+**Breadth-First Search:**
+Er besteht aus drei Teilen:
 
+1. Die Queue: Das sind die Zellen, die gerade darauf warten, erkundet zu werden.
+2. Die Visited-Liste: Sie sorgt dafür, dass Zellen nicht mehr als einmal erkundet werden.
+3. Die Came-from-Liste: Sie ist dafür da, dass der Weg zurückgebaut werden kann, wenn das Ende gefunden wurde.
+
+Der Algorithmus geht systematisch und zuerst horizontal durch alle Zellen und dann von denen aus zu den verbundenen Zellen.
+
+Der Plan zur Implementierung steht, in Form eines Pseudocodes, der den Algorithmus Schritt für Schritt spezifisch für meine Labyrinth-Anwendung beschreibt.
 
 ### Planung 20.11.2026
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Implementierung des Algorithmus nach dem Plan vom letzten Mal
+- [ ] Unit-Test für ein lösbares Labyrinth, bei dem eine Liste mit dem Pfad zurückgegeben wird
+- [ ] Unit-Test für ein unlösbares Labyrinth, bei dem null zurückgegeben wird
 
 #### Tagesreflexion
 
